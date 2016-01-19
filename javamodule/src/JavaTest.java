@@ -2,7 +2,8 @@
  * Created by rmedarametla on 1/18/2016.
  */
 public class JavaTest {
-    private String rajdddd;
+    private String raj;
+    private String rajendra;
 
     @Override
     public boolean equals(Object o) {
